@@ -1,7 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5eb5da9c-130b-4c3c-9bf8-50765fa697c2" name="Default" comment="" />
+    <list default="true" id="5eb5da9c-130b-4c3c-9bf8-50765fa697c2" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Notes/Notes/Notes.pro" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Notes/Notes/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Notes/Notes/mainwindow.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Notes/Notes/mainwindow.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Notes/Notes/mainwindow.ui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../projects/Records/Records.pro" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../projects/Records/database.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../projects/Records/database.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../projects/Records/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../projects/Records/mainwindow.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../projects/Records/mainwindow.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../projects/Records/mainwindow.ui" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CS1C/BulkClub/BulkClub.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CS1C/BulkClub/bulkclub.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CS1C/BulkClub/bulkclub.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CS1C/BulkClub/date.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CS1C/BulkClub/date.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CS1C/BulkClub/execmemeber.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CS1C/BulkClub/execmemeber.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CS1C/BulkClub/main.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CS1C/BulkClub/mainwindow.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CS1C/BulkClub/mainwindow.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CS1C/BulkClub/mainwindow.ui" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CS1C/BulkClub/member.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CS1C/BulkClub/member.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CS1C/BulkClub/resourses.qrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../newProj/security/.qmake.stash" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../newProj/security/CyberSecurity.app/Contents/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../newProj/security/CyberSecurity.app/Contents/PkgInfo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../newProj/security/CyberSecurity.app/Contents/Resources/empty.lproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../newProj/security/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../newProj/security/adminlogin.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../newProj/security/adminwindow.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../newProj/security/main.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../newProj/security/mainwindow.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../newProj/security/ui_adminlogin.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../newProj/security/ui_adminwindow.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../newProj/security/ui_cart.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../newProj/security/ui_contactus.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../newProj/security/ui_danksecurity.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../newProj/security/ui_mainwindow.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../newProj/security/ui_mlgantivirus.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../newProj/security/ui_multidank.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../newProj/security/ui_pamphlet.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../newProj/security/ui_programhelp.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../newProj/security/ui_testemonialwindow.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../newProj/security/ui_testimonials.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../project2/security" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../untitled1/main.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../untitled1/mainwindow.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../untitled1/mainwindow.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../untitled1/mainwindow.ui" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../untitled1/untitled1.pro" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/messingAround/club.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/messingAround/club.h" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/messingAround/main.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/messingAround/mainwindow.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/messingAround/mainwindow.h" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/messingAround/mainwindow.ui" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/messingAround/messingAround.pro" afterPath="" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/untitled/mainwindow.cpp" afterPath="$USER_HOME$/untitled/mainwindow.cpp" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/untitled/mainwindow.ui" afterPath="$USER_HOME$/untitled/mainwindow.ui" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -21,9 +84,21 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+            <state relative-caret-position="480">
+              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="javascriptFunctions.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascriptFunctions.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1305">
+              <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#46#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -34,6 +109,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -43,6 +119,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/javascriptFunctions.js" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -54,10 +131,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="260" />
-    <option name="y" value="43" />
-    <option name="width" value="1400" />
-    <option name="height" value="948" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -85,6 +160,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -98,6 +174,68 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
@@ -108,12 +246,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1496886961380</updated>
-      <workItem from="1496886964044" duration="8981000" />
+      <workItem from="1496886964044" duration="9372000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8981000" />
+    <option name="totallyTimeSpent" value="9372000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -125,7 +263,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="260" y="43" width="1400" height="948" extended-state="0" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.090252705" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -157,10 +295,20 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/javascriptFunctions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1305">
+          <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#46#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        <state relative-caret-position="480">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding />
         </state>
       </provider>
